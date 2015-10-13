@@ -1,0 +1,22 @@
+Name: Jean-Luc Watson 
+1) How long did this assignment take you to complete?
+It took me about 5 or 6 hours, mostly because I got a little stuck on the Railfence algorithm and I spent some good amount of time trying to decrypt one of the vigenere file with the wrong key :D
+
+2) What has been the best part of the class so far?
+Definitely the help in class - during both the lectures and the labs, it's really nice to be able to get a second look at a problem or attempt at writing code.
+
+
+
+
+3) What can we do to make this class more enjoyable for you?
+Keep up the good work!
+
+
+
+
+4) What types of assignments would excite you in this class?
+I'm really excited to work on whatever assignments you come up with, but maybe something that edits sound waves/music to get some cool effects.
+
+
+
+
