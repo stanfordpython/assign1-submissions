@@ -1,0 +1,29 @@
+Name: <Keyur Mehta>
+1) How long did this assignment take you to complete?
+
+Around 5 and a half hours. Majority of the time on the railfence algorithm!
+
+
+2) What has been the best part of the class so far?
+
+Loved the pace so far and think Sam is teaching incredibly relevant material.
+
+3) What can we do to make this class more enjoyable for you?
+
+It would be great to get "real world applications" stuff from the class as well. We could talk 
+about what Python is used for in the real world (as in personal projects, apps, websites...etc.) And
+then in lab, we could go over a real example. 
+
+4) What types of assignments would excite you in this class?
+
+Similar to my previous answer, I'd love a real world assignment where we are scraping data from the web or
+writing scripts that automate something useful!
+
+Thank you guys so much for all the work you've been putting into the class. Its already been one of my 
+most enjoyable academic experiences and its only been 3 weeks. Thought this assignment went a long way in 
+confirming basic control of Python which was perfect. Thanks again. 
+
+
+
+
+
