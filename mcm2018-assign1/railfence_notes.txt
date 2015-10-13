@@ -1,0 +1,56 @@
+encrypt(message, numrails)
+WEAREDISCOVEREDFLEEATONCE
+          111111111122222
+0123456789012345678901234
+
+W.A.E.I.C.V.R.D.L.E.T.N.E s[0::2]
+.E.R.D.S.O.E.E.F.E.A.O.C. s[1::2]
+
+W...E...C...R...L...T...E s[0::4] 7
+.E.R.D.S.O.E.E.F.E.A.O.C. s[1::2] 
+..A...I...V...D...E...N.. s[2::4]
+
+W.....I.....R.....E.....E s[0::6]
+.E...D.S...W.E...E.A...C. ???
+..A.E...C.V...D.L...T.N.. ???
+...R.....O.....F.....O... s[3::6]
+
+0, 1, 2, 3, 2, 1, 0
+0, 1, 2, 3, 4, 5, 6
+
+num rails - (4 % num rails)
+
+W.......C.......L.......E 7
+.E.....S.O.....F.E.....C. 5, 1
+..A...I...V...D...E...N.. 3
+...R.D.....E.E.....A.O... 1, 5
+....E.......R.......T.... 7
+
+WCLE ESOFEC AIVDEN RDEEAO ERT
+WIREE EDSWEEAC AECVDLTN ROFO
+WECRLTE ERDSOEEFEAOC AIVDEN
+
+W   E   C   R   L   T   E
+ E R D S O E E F E A O C
+  A   I   V   D   E   N
+
+WECRLTE ERDSOE EFEAOC AIVDEN
+WIREE EDSW EEAC AECV DLTN ROFO
+
+HELLO
+HLO EL
+HO EL L
+H EO L L
+
+l = []
+len(ciphertext) // 
+for i in range(num_rails):
+	if(i == 0):
+
+	elif(i == num_rails - 1):
+
+	else:
+		l.append()
+
+
+
